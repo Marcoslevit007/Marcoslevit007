@@ -1,2 +1,2 @@
-## OPA, É UM PRAZER TE VER POR AQUI 👋
+## OPA, É UM PRAZER TE VER AQUI 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcoslevit007&show_icons=true&theme=radical)
